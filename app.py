@@ -1,0 +1,1 @@
+print("OO antava mama oo oo antava maawa")
